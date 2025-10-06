@@ -60,7 +60,6 @@ work_experience:
     start_date: January 2020
     end_date: Present
     summary: Technical lead responsible for designing, implementing, and maintaining core IT infrastructure to support business operations and growth. Managing growing AWS infrastructure while adhering to AWS Well-Architected Framework. Providing mentorship and guidance to junior engineers while serving as escalation point for high-priority technical issues.
-    url: https://www.easipc.com/
     highlights:
       - Leading administration and support of IT infrastructure including networking, cloud platforms, storage, and backup solutions
       - Diagnosing and resolving complex technical incidents with root cause analysis to prevent recurrence and improve service reliability
@@ -78,7 +77,6 @@ work_experience:
     start_date: February 2017
     end_date: January 2020
     summary: Worked onsite at schools providing desktop, server, and network support, ensuring all integral systems functioned as intended. Contributed to various projects aimed at improving schools' network and server infrastructure with confidence in resolving issues independently.
-    url: https://www.easipc.com/
     highlights:
       - Setting up Hyper-V environments and migrating physical servers to virtual servers
       - Decommissioning legacy servers
@@ -100,7 +98,6 @@ work_experience:
       - Supporting SMART Interactive Whiteboards
       - Implementing Sahara Clevertouch Interactive Boards
       - Providing Mac OS X support
-    url: https://www.silverbug.co.uk/
   - company: SilverBug Ltd
     position: Service Desk Technical Support
     start_date: May 2011
@@ -117,7 +114,6 @@ work_experience:
       - Managing failed server backups
       - Creating and editing Group Policy Objects (GPOs)
       - Building and deploying new computers
-    url: https://www.silverbug.co.uk/
 interests:
   - name: Technology and Computing
     summary:

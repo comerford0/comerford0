@@ -30,7 +30,7 @@ projects:
       - Served as Technical Lead for architecting, initiating, and implementing the AWS environment
       - Facilitated customer migration to cloud infrastructure, reducing reliance on local hardware
       - Enabled customers to save an average of £2,000 per year through optimized cloud solutions
-      - Adhered to AWS Well-Architected Framework principles
+      - Adhered to AWS Well-Architected Framework principles 
     summary: Led the complete design and implementation of AWS infrastructure for multiple clients, enabling their transition from traditional on-premise systems to modern cloud-based solutions. This initiative significantly reduced operational costs while improving scalability and reliability.
   - title: Remote Monitoring and Management (RMM) Implementation
     highlights:
@@ -48,7 +48,7 @@ projects:
     summary: Led a critical infrastructure project to migrate all backup solutions to a new platform, coordinating with multiple stakeholders to ensure seamless transition while maintaining business continuity and data protection standards.
   - title: Large-Scale SQL Database Migration
     highlights:
-      - Led a team of engineers in migrating SQL systems for over 150 sites
+      - Led a team of engineers in migrating SQL systems for over 151 sites
       - Successfully migrated approximately 7,500 non-technical users from MSSQL 2012 to MSSQL 2022
       - Ensured complete data integrity throughout the migration process
       - Minimized system downtime and operational impact

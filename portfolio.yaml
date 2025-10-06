@@ -23,148 +23,147 @@ social_links:
 - label: Sam - LinkedIn
   svg_path: img/linkedin.svg
   url: https://www.linkedin.com/in/sam-comerford-7a277878
-- label: Sam - Email
-#  svg_path: img/email.svg
-  url: mailto:Comer3487@outlook.com
 base_url: 127.0.0.1:5500
 projects:
-- title: AWS Cloud Migration Initiative
-  highlights:
-  - Served as Technical Lead for architecting, initiating, and implementing the AWS environment
-  - Facilitated customer migration to cloud infrastructure, reducing reliance on local hardware
-  - Enabled customers to save an average of £2,000 per year through optimized cloud solutions
-  - Adhered to AWS Well-Architected Framework principles
-  summary: Led the complete design and implementation of AWS infrastructure for multiple clients, enabling their transition from traditional on-premise systems to modern cloud-based solutions. This initiative significantly reduced operational costs while improving scalability and reliability.
-- title: Remote Monitoring and Management (RMM) Implementation
-  highlights:
-  - Collaborated with Technical Director to initiate and implement comprehensive RMM solution
-  - Enabled proactive monitoring with alerts and notifications across all users
-  - Reduced hardware and software risks through early detection and intervention
-  - Improved overall system reliability and uptime
-  summary: Designed and deployed an enterprise-wide Remote Monitoring and Management solution that transformed reactive support into proactive infrastructure management, significantly reducing downtime and improving service delivery.
-- title: Enterprise Backup Migration Project
-  highlights:
-  - Served as Technical Lead for migrating from existing online and SaaS backup solutions to new provider
-  - Ensured minimal downtime during transition
-  - Maintained complete data integrity throughout migration process
-  - Improved backup reliability and recovery capabilities
-  summary: Led a critical infrastructure project to migrate all backup solutions to a new platform, coordinating with multiple stakeholders to ensure seamless transition while maintaining business continuity and data protection standards.
-- title: Large-Scale SQL Database Migration
-  highlights:
-  - Led a team of engineers in migrating SQL systems for over 150 sites
-  - Successfully migrated approximately 7,500 non-technical users from MSSQL 2012 to MSSQL 2022
-  - Ensured complete data integrity throughout the migration process
-  - Minimized system downtime and operational impact
-  - Maintained 100% lead time on all escalated tickets
-  summary: Managed and executed a complex database migration project affecting thousands of users across multiple sites, demonstrating strong leadership, technical expertise, and project management capabilities while maintaining exceptional service standards.
+  - title: AWS Cloud Migration Initiative
+    highlights:
+      - Served as Technical Lead for architecting, initiating, and implementing the AWS environment
+      - Facilitated customer migration to cloud infrastructure, reducing reliance on local hardware
+      - Enabled customers to save an average of £2,000 per year through optimized cloud solutions
+      - Adhered to AWS Well-Architected Framework principles
+    summary: Led the complete design and implementation of AWS infrastructure for multiple clients, enabling their transition from traditional on-premise systems to modern cloud-based solutions. This initiative significantly reduced operational costs while improving scalability and reliability.
+  - title: Remote Monitoring and Management (RMM) Implementation
+    highlights:
+      - Collaborated with Technical Director to initiate and implement comprehensive RMM solution
+      - Enabled proactive monitoring with alerts and notifications across all users
+      - Reduced hardware and software risks through early detection and intervention
+      - Improved overall system reliability and uptime
+    summary: Designed and deployed an enterprise-wide Remote Monitoring and Management solution that transformed reactive support into proactive infrastructure management, significantly reducing downtime and improving service delivery.
+  - title: Enterprise Backup Migration Project
+    highlights:
+      - Served as Technical Lead for migrating from existing online and SaaS backup solutions to new provider
+      - Ensured minimal downtime during transition
+      - Maintained complete data integrity throughout migration process
+      - Improved backup reliability and recovery capabilities
+    summary: Led a critical infrastructure project to migrate all backup solutions to a new platform, coordinating with multiple stakeholders to ensure seamless transition while maintaining business continuity and data protection standards.
+  - title: Large-Scale SQL Database Migration
+    highlights:
+      - Led a team of engineers in migrating SQL systems for over 150 sites
+      - Successfully migrated approximately 7,500 non-technical users from MSSQL 2012 to MSSQL 2022
+      - Ensured complete data integrity throughout the migration process
+      - Minimized system downtime and operational impact
+      - Maintained 100% lead time on all escalated tickets
+    summary: Managed and executed a complex database migration project affecting thousands of users across multiple sites, demonstrating strong leadership, technical expertise, and project management capabilities while maintaining exceptional service standards.
 work_experience:
-- company: Easi PC
-  position: Senior Infrastructure Engineer
-  start_date: January 2020
-  end_date: Present
-  summary: Technical lead responsible for designing, implementing, and maintaining core IT infrastructure to support business operations and growth. Managing growing AWS infrastructure while adhering to AWS Well-Architected Framework. Providing mentorship and guidance to junior engineers while serving as escalation point for high-priority technical issues.
-  url: https://www.easipc.com/
-  highlights:
-  - Leading administration and support of IT infrastructure including networking, cloud platforms, storage, and backup solutions
-  - Diagnosing and resolving complex technical incidents with root cause analysis to prevent recurrence and improve service reliability
-  - Ensuring infrastructure compliance with security standards, IT policies, and governance frameworks
-  - Providing guidance and mentoring to junior engineers as escalation point for high-priority issues
-  - Managing relationships with vendors and third-party providers, overseeing service reviews, licensing, and contract renewals
-  - Recovering failed Hyper-V cluster servers and sites from crypto viruses
-  - Managing SQL databases from SQL 2012 to SQL 2022
-  - Managing and maintaining Microsoft 365 and Google Workspace tenants
-  - Setting up, configuring, and deploying anti-virus and on-premise server solutions with Windows Server 2016 and 2022
-  - Ensuring cyber security EDR and SOAR policies are met
-  - Managing and implementing filtering and safeguarding software
-- company: Easi PC
-  position: Peripatetic Engineer
-  start_date: February 2017
-  end_date: January 2020
-  summary: Worked onsite at schools providing desktop, server, and network support, ensuring all integral systems functioned as intended. Contributed to various projects aimed at improving schools' network and server infrastructure with confidence in resolving issues independently.
-  highlights:
-  - Setting up Hyper-V environments and migrating physical servers to virtual servers
-  - Decommissioning legacy servers
-  - Configuring and maintaining Office 365 with and without DirSync
-  - Replacing and upgrading network switches
-  - Managing Apple Configurator for iPad and Mac devices
-  - Implementing Meraki MDM tool for iPad and Mac management
-  - Providing comprehensive on-site technical support for education sector
-- company: SilverBug Ltd
-  position: 2nd Line Education Support
-  start_date: April 2014
-  end_date: February 2017
-  summary: Worked onsite in schools to provide daily support, maintaining and servicing integral systems while working on school infrastructure to ensure smooth operations. Gained extensive experience implementing and installing a range of software, hardware, and services.
-  highlights:
-  - Implementing Redstor Remote backup solutions
-  - Migrating from Office 2007 to Office 2013
-  - Supporting SIMS/FMS with knowledge of internal SIMS workings
-  - Managing ESET Anti-Virus and Administrator Console
-  - Supporting SMART Interactive Whiteboards
-  - Implementing Sahara Clevertouch Interactive Boards
-  - Providing Mac OS X support
-  url: https://www.silverbug.co.uk/
-- company: SilverBug Ltd
-  position: Service Desk Technical Support
-  start_date: May 2011
-  end_date: April 2014
-  summary: Started career as an apprentice with company-sponsored college attendance to complete MSA, MSCA, and CompTIA A+ certifications. Progressed to 1st line service desk support providing remote assistance to over 100 companies, later promoted to 2nd line technical support serving as escalation point for complex issues.
-  highlights:
-  - Providing remote support for missing or inaccessible network drives
-  - Managing locked Active Directory accounts and new user setup
-  - Troubleshooting internet connectivity issues
-  - Installing and configuring software applications
-  - Traveling overseas to Central and North America, and Africa for blue-chip company projects
-  - Backing up and migrating user data during hardware refreshes
-  - Resolving Exchange mailing issues
-  - Managing failed server backups
-  - Creating and editing Group Policy Objects (GPOs)
-  - Building and deploying new computers
-  url: https://www.silverbug.co.uk/
-- name: Technology and Computing
-  summary:
-  - In spare time, enjoy building and tinkering with personal computers built from scratch, constantly rebuilding and upgrading components to stay current with latest technology trends and maintain hands-on technical skills.
-  - This hobby reinforces understanding of hardware architecture and troubleshooting methodologies that directly translate to professional infrastructure work.
-- name: Outdoor Activities
-  summary:
-  - Enjoy mountain biking and running as ways to maintain physical fitness and mental clarity.
-  - These activities provide balance to technical work and help maintain focus and energy for demanding infrastructure projects.
-- name: Family and Social Life
-  summary:
-  - Enjoy playing games, watching films, and spending quality time with wife and daughter.
-  - Value socializing with family and friends as important balance to professional responsibilities.
+  - company: Easi PC
+    position: Senior Infrastructure Engineer
+    start_date: January 2020
+    end_date: Present
+    summary: Technical lead responsible for designing, implementing, and maintaining core IT infrastructure to support business operations and growth. Managing growing AWS infrastructure while adhering to AWS Well-Architected Framework. Providing mentorship and guidance to junior engineers while serving as escalation point for high-priority technical issues.
+    url: https://www.easipc.com/
+    highlights:
+      - Leading administration and support of IT infrastructure including networking, cloud platforms, storage, and backup solutions
+      - Diagnosing and resolving complex technical incidents with root cause analysis to prevent recurrence and improve service reliability
+      - Ensuring infrastructure compliance with security standards, IT policies, and governance frameworks
+      - Providing guidance and mentoring to junior engineers as escalation point for high-priority issues
+      - Managing relationships with vendors and third-party providers, overseeing service reviews, licensing, and contract renewals
+      - Recovering failed Hyper-V cluster servers and sites from crypto viruses
+      - Managing SQL databases from SQL 2012 to SQL 2022
+      - Managing and maintaining Microsoft 365 and Google Workspace tenants
+      - Setting up, configuring, and deploying anti-virus and on-premise server solutions with Windows Server 2016 and 2022
+      - Ensuring cyber security EDR and SOAR policies are met
+      - Managing and implementing filtering and safeguarding software
+  - company: Easi PC
+    position: Peripatetic Engineer
+    start_date: February 2017
+    end_date: January 2020
+    summary: Worked onsite at schools providing desktop, server, and network support, ensuring all integral systems functioned as intended. Contributed to various projects aimed at improving schools' network and server infrastructure with confidence in resolving issues independently.
+    url: https://www.easipc.com/
+    highlights:
+      - Setting up Hyper-V environments and migrating physical servers to virtual servers
+      - Decommissioning legacy servers
+      - Configuring and maintaining Office 365 with and without DirSync
+      - Replacing and upgrading network switches
+      - Managing Apple Configurator for iPad and Mac devices
+      - Implementing Meraki MDM tool for iPad and Mac management
+      - Providing comprehensive on-site technical support for education sector
+  - company: SilverBug Ltd
+    position: 2nd Line Education Support
+    start_date: April 2014
+    end_date: February 2017
+    summary: Worked onsite in schools to provide daily support, maintaining and servicing integral systems while working on school infrastructure to ensure smooth operations. Gained extensive experience implementing and installing a range of software, hardware, and services.
+    highlights:
+      - Implementing Redstor Remote backup solutions
+      - Migrating from Office 2007 to Office 2013
+      - Supporting SIMS/FMS with knowledge of internal SIMS workings
+      - Managing ESET Anti-Virus and Administrator Console
+      - Supporting SMART Interactive Whiteboards
+      - Implementing Sahara Clevertouch Interactive Boards
+      - Providing Mac OS X support
+    url: https://www.silverbug.co.uk/
+  - company: SilverBug Ltd
+    position: Service Desk Technical Support
+    start_date: May 2011
+    end_date: April 2014
+    summary: Started career as an apprentice with company-sponsored college attendance to complete MSA, MSCA, and CompTIA A+ certifications. Progressed to 1st line service desk support providing remote assistance to over 100 companies, later promoted to 2nd line technical support serving as escalation point for complex issues.
+    highlights:
+      - Providing remote support for missing or inaccessible network drives
+      - Managing locked Active Directory accounts and new user setup
+      - Troubleshooting internet connectivity issues
+      - Installing and configuring software applications
+      - Traveling overseas to Central and North America, and Africa for blue-chip company projects
+      - Backing up and migrating user data during hardware refreshes
+      - Resolving Exchange mailing issues
+      - Managing failed server backups
+      - Creating and editing Group Policy Objects (GPOs)
+      - Building and deploying new computers
+    url: https://www.silverbug.co.uk/
+interests:
+  - name: Technology and Computing
+    summary:
+      - In spare time, enjoy building and tinkering with personal computers built from scratch, constantly rebuilding and upgrading components to stay current with latest technology trends and maintain hands-on technical skills.
+      - This hobby reinforces understanding of hardware architecture and troubleshooting methodologies that directly translate to professional infrastructure work.
+  - name: Outdoor Activities
+    summary:
+      - Enjoy mountain biking and running as ways to maintain physical fitness and mental clarity.
+      - These activities provide balance to technical work and help maintain focus and energy for demanding infrastructure projects.
+  - name: Family and Social Life
+    summary:
+      - Enjoy playing games, watching films, and spending quality time with wife and daughter.
+      - Value socializing with family and friends as important balance to professional responsibilities.
 certifications:
-- name: AWS Solutions Architect
-  issuer: Amazon Web Services
-  status: Certified
-- name: Microsoft 365 Certified - Administrator Expert (MS-102)
-  issuer: Microsoft
-  status: Certified
-- name: Microsoft Certified - Endpoint Administrator Associate (MD-102)
-  issuer: Microsoft
-  status: Certified
-- name: Microsoft Certified - Identity and Access Administrator Associate (SC-300)
-  issuer: Microsoft
-  status: Certified
-- name: AZ-104 - Azure Administrator Associate
-  issuer: Microsoft
-  status: In Progress
-  note: Exam scheduled for October 9th, 2025
-- name: AZ-400 - DevOps Engineer Expert
-  issuer: Microsoft
-  status: Planned
-  note: To be scheduled after AZ-104
-- name: Windows Server 2016 - Installation, Storage, and Compute (Exam 70-740)
-  issuer: Microsoft
-  status: Certified
-- name: MTA - Networking Fundamentals (98-366)
-  issuer: Microsoft
-  status: Certified
-- name: MTA - Security Fundamentals (98-367)
-  issuer: Microsoft
-  status: Certified
-- name: MCSA Windows 7 (070-680/070-685)
-  issuer: Microsoft
-  status: Certified
-- name: CompTIA A+
-  issuer: CompTIA
-  status: Certified
+  - name: AWS Solutions Architect
+    issuer: Amazon Web Services
+    status: Certified
+  - name: Microsoft 365 Certified - Administrator Expert (MS-102)
+    issuer: Microsoft
+    status: Certified
+  - name: Microsoft Certified - Endpoint Administrator Associate (MD-102)
+    issuer: Microsoft
+    status: Certified
+  - name: Microsoft Certified - Identity and Access Administrator Associate (SC-300)
+    issuer: Microsoft
+    status: Certified
+  - name: AZ-104 - Azure Administrator Associate
+    issuer: Microsoft
+    status: In Progress
+    note: Exam scheduled for October 9th, 2025
+  - name: AZ-400 - DevOps Engineer Expert
+    issuer: Microsoft
+    status: Planned
+    note: To be scheduled after AZ-104
+  - name: Windows Server 2016 - Installation, Storage, and Compute (Exam 70-740)
+    issuer: Microsoft
+    status: Certified
+  - name: MTA - Networking Fundamentals (98-366)
+    issuer: Microsoft
+    status: Certified
+  - name: MTA - Security Fundamentals (98-367)
+    issuer: Microsoft
+    status: Certified
+  - name: MCSA Windows 7 (070-680/070-685)
+    issuer: Microsoft
+    status: Certified
+  - name: CompTIA A+
+    issuer: CompTIA
+    status: Certified

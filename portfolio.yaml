@@ -10,15 +10,15 @@ summary:
 - Skilled in designing and implementing scalable infrastructure architectures, excelling at collaborating with cross-functional teams to deliver solutions that drive business growth and operational efficiency.
 image_path: img/main_photo.jpg
 skills:
-- name: AWS, Azure, Cloud Infrastructure, Backup Solutions,
-  proficiency: 100
-  proficiency_label: Expert
 - name: Windows Server, Hyper-V, Microsoft 365, Entra, PowerShell, Networking
   proficiency: 100
   proficiency_label: Expert
-- name: Linux, Docker, SQL Server, Scripting, Terraform, Ansible
-  proficiency: 80
+- name: AWS, Azure, Cloud Infrastructure, Backup Solutions
+  proficiency: 90
   proficiency_label: Advanced
+- name: Linux, Docker, SQL Server, Scripting, Terraform, Ansible
+  proficiency: 70
+  proficiency_label: Clear Understanding
 social_links:
 - label: Sam - LinkedIn
   svg_path: img/linkedin.svg
@@ -66,12 +66,12 @@ work_experience:
       - Ensuring infrastructure compliance with security standards, IT policies, and governance frameworks
       - Providing guidance and mentoring to junior engineers as escalation point for high-priority issues
       - Managing relationships with vendors and third-party providers, overseeing service reviews, licensing, and contract renewals
-      - Recovering failed Hyper-V cluster servers and sites from crypto viruses
+      - Recovering failed Hyper-V cluster servers for disater recovery
       - Managing SQL databases from SQL 2012 to SQL 2022
       - Managing and maintaining Microsoft 365 and Google Workspace tenants
-      - Setting up, configuring, and deploying anti-virus and on-premise server solutions with Windows Server 2016 and 2022
+      - Setting up, configuring, and deployment of on-premise server solutions with Windows Server 2016 and 2022
       - Ensuring cyber security EDR and SOAR policies are met
-      - Managing and implementing filtering and safeguarding software
+      - Managing and implementing AD, DHCP, DNS and Entra Connect Sync
   - company: Easi PC
     position: Peripatetic Engineer
     start_date: February 2017
@@ -143,7 +143,6 @@ certifications:
   - name: AZ-104 - Azure Administrator Associate
     issuer: Microsoft
     status: In Progress
-    note: Exam scheduled for October 9th, 2025
   - name: AZ-400 - DevOps Engineer Expert
     issuer: Microsoft
     status: Planned

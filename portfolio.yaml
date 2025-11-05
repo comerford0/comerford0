@@ -127,38 +127,12 @@ interests:
     summary:
       - Enjoy playing games, watching films, and spending quality time with wife and daughter.
       - Value socializing with family and friends as important balance to professional responsibilities.
-certifications:
-  - name: AWS Solutions Architect
-    issuer: Amazon Web Services
-    status: Certified
-  - name: Microsoft 365 Certified - Administrator Expert (MS-102)
-    issuer: Microsoft
-    status: Certified
-  - name: Microsoft Certified - Endpoint Administrator Associate (MD-102)
-    issuer: Microsoft
-    status: Certified
-  - name: Microsoft Certified - Identity and Access Administrator Associate (SC-300)
-    issuer: Microsoft
-    status: Certified
-  - name: AZ-104 - Azure Administrator Associate
-    issuer: Microsoft
-    status: In Progress
-  - name: AZ-400 - DevOps Engineer Expert
-    issuer: Microsoft
-    status: Planned
-    note: To be scheduled after AZ-104
-  - name: Windows Server 2016 - Installation, Storage, and Compute (Exam 70-740)
-    issuer: Microsoft
-    status: Certified
-  - name: MTA - Networking Fundamentals (98-366)
-    issuer: Microsoft
-    status: Certified
-  - name: MTA - Security Fundamentals (98-367)
-    issuer: Microsoft
-    status: Certified
-  - name: MCSA Windows 7 (070-680/070-685)
-    issuer: Microsoft
-    status: Certified
-  - name: CompTIA A+
-    issuer: CompTIA
-    status: Certified
+Certificates:
+  - institution: Amazon Web Services
+    Certificates: 
+    - AWS Solutions Architect
+  - institution: Microsoft
+    Certificates:
+    - Administrator Expert (MS-102)
+    - Endpoint Administrator Associate (MD-102)
+    - Identity and Access Administrator Associate (SC-300)
